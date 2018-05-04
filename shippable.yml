@@ -2,13 +2,13 @@ language: none
 
 services:
   - cassandra 
-  - couchdb 
+  #- couchdb 
   - elasticsearch 
   - memcached 
   - mongodb 
-  - mysql 
+  #- mysql 
   - neo4j 
-  - postgres 
+  #- postgres 
   - rabbitmq 
   - redis  
   - riak 
